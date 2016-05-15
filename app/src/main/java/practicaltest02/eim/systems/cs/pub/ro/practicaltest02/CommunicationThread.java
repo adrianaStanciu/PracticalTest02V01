@@ -30,9 +30,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * Created by cristina on 14.05.2016.
- */
+
 public class CommunicationThread extends Thread {
 
     private ServerThread serverThread;
