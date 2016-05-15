@@ -9,9 +9,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.HashMap;
 
-/**
- * Created by cristina on 14.05.2016.
- */
+
 public class ServerThread extends Thread {
     private int port = 0;
     private ServerSocket serverSocket = null;
