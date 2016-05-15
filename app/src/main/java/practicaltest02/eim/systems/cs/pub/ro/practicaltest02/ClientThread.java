@@ -10,9 +10,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-/**
- * Created by cristina on 15.05.2016.
- */
+
 public class ClientThread extends Thread {
     private String address;
     private int port;
